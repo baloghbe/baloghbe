@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  
+# Skills
 
-<!--
-**baloghbe/baloghbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<b>EXPERIENCED<b>
+  ---
+![](https://github.com/baloghbe/Photos/blob/main/cpp.png)
+![](https://github.com/baloghbe/Photos/blob/main/csharp.png)
+![](https://github.com/baloghbe/Photos/blob/main/java.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</br>
+  
+  
+<b>PROFICIENT<b> 
+  ---
+![](https://github.com/baloghbe/Photos/blob/main/python.png)
+
+ 
+</br>
+  
+<b>ENTRY-LEVEL<b>
+---
+![](https://github.com/baloghbe/Photos/blob/main/cmake.png)
+![](https://github.com/baloghbe/Photos/blob/main/mysql.png)
+![](https://github.com/baloghbe/Photos/blob/main/c.png)
+
+  
+</p>
+
+</br>
+
+ 
+  
+# [My Resume](https://baloghbe.github.io/Resume/)
+  
