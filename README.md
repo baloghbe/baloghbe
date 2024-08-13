@@ -26,7 +26,7 @@
 ![](https://github.com/baloghbe/Photos/blob/main/cmake.png)
 ![](https://github.com/baloghbe/Photos/blob/main/mysql.png)
 ![](https://github.com/baloghbe/Photos/blob/main/c.png)
-![](https://github.com/baloghbe/Photos/blob/main/rust-logo-16x16.png)
+![](https://github.com/baloghbe/Photos/blob/main/rust-logo-64x64.png)
 
 
   
